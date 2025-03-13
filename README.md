@@ -24,9 +24,9 @@ No Scroll Lag: The image grid must remain smooth while scrolling.
 
 o Caching Mechanism:
 
-1.Implement both Memory and Disk cache for efficient image retrieval.
-2.If an image is not found in Memory cache, it should be loaded from Disk cache.
-3.Once an image is fetched from Disk, update the Memory cache.
+1. Implement both Memory and Disk cache for efficient image retrieval.
+2. If an image is not found in Memory cache, it should be loaded from Disk cache.
+3. Once an image is fetched from Disk, update the Memory cache.
 
 o Error Handling:
 
