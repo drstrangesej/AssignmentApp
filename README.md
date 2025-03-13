@@ -46,7 +46,7 @@ Open Android Studio and follow these steps:
 File > New > Project from Version Control > Select Git as the Version Control System > Paste the GitHub Repository URL in the field provided > Choose the directory where you want to save the project >
 Click Clone
 
-GitHub Repository URL >   https://github.com/your-username/Android-Image-Loader.git
+GitHub Repository URL >   https://github.com/drstrangesej/AssignmentApp.git
 
 2. Run the App on a Device
 Enable Developer Mode & USB Debugging on your phone.
