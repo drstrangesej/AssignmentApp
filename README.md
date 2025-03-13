@@ -30,8 +30,8 @@ o Caching Mechanism:
 
 o Error Handling:
 
-1.Handle network failures and image load failures gracefully.
-2.Display error messages or placeholder images when image loading fails.
+1. Handle network failures and image load failures gracefully.
+2. Display error messages or placeholder images when image loading fails.
 
 o Technology Stack
 
