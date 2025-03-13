@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageGridApp</string>
+    <string name="image_description">Grid Image</string>
+    <string name="error_loading_image">Error loading image</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_timeout">Connection timed out</string>
+    <string name="error_generic">Something went wrong</string>
+    <string name="error_loading_images">Failed to load images</string>
+</resources>
